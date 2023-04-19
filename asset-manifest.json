@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vk_excel_reader/static/css/main.e5fa9f25.css",
+    "main.js": "/vk_excel_reader/static/js/main.d80c9e11.js",
+    "index.html": "/vk_excel_reader/index.html",
+    "main.e5fa9f25.css.map": "/vk_excel_reader/static/css/main.e5fa9f25.css.map",
+    "main.d80c9e11.js.map": "/vk_excel_reader/static/js/main.d80c9e11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5fa9f25.css",
+    "static/js/main.d80c9e11.js"
+  ]
+}
