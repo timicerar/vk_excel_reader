@@ -10,6 +10,7 @@ export const WaterBasketballIcon = () => {
             height="24"
             viewBox="0 0 128 128"
             xmlSpace="preserve"
+            style={{ minWidth: "24px", minHeight: "24px" }}
         >
             <g id="water_basketball">
                 <g>
