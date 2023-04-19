@@ -1,0 +1,20 @@
+.error-message {
+    font-family: "Roboto", sans-serif;
+    color: #FF4136;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.loader-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 8px;
+}
