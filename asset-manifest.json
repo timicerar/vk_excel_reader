@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vk_excel_reader/static/css/main.e5fa9f25.css",
-    "main.js": "/vk_excel_reader/static/js/main.308b6be9.js",
+    "main.js": "/vk_excel_reader/static/js/main.97e2dc86.js",
     "index.html": "/vk_excel_reader/index.html",
     "main.e5fa9f25.css.map": "/vk_excel_reader/static/css/main.e5fa9f25.css.map",
-    "main.308b6be9.js.map": "/vk_excel_reader/static/js/main.308b6be9.js.map"
+    "main.97e2dc86.js.map": "/vk_excel_reader/static/js/main.97e2dc86.js.map"
   },
   "entrypoints": [
     "static/css/main.e5fa9f25.css",
-    "static/js/main.308b6be9.js"
+    "static/js/main.97e2dc86.js"
   ]
 }
