@@ -3,17 +3,12 @@ import { observer } from "mobx-react"
 import { ExcelReader } from "./containers/excel-reader"
 
 const App = observer(() => {
-    const router = createBrowserRouter(
-        [
-            {
-                path: "/",
-                element: <ExcelReader />,
-            },
-        ],
+    const router = createBrowserRouter([
         {
-            basename: "/vk_excel_reader/",
+            path: "/",
+            element: <ExcelReader />,
         },
-    )
+    ])
 
     return <RouterProvider router={router} />
 })
