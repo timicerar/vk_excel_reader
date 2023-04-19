@@ -18,7 +18,7 @@ export const ExcelReader = observer(() => {
         <div className="container">
             <h1 className="heading">
                 <WaterBasketballIcon />
-                <span>Waterbasketball League Player Availability Sorter</span>
+                <span>Waterbasketball League Games Player Availability Sorter</span>
             </h1>
             <DropzoneInput onDrop={(acceptedFiles) => handleOnDrop(acceptedFiles)} />
             {store.item && <ExcelReaderList item={store.item} />}
