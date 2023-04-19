@@ -11,7 +11,7 @@ const App = observer(() => {
             },
         ],
         {
-            basename: "/vk_excel_reader",
+            basename: "vk_excel_reader",
         },
     )
 
