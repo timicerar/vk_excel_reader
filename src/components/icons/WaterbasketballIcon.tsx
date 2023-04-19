@@ -6,8 +6,8 @@ export const WaterBasketballIcon = () => {
             version="1.1"
             xmlns="http://www.w3.org/2000/svg"
             xmlnsXlink="http://www.w3.org/1999/xlink"
-            width="24"
-            height="24"
+            width="32"
+            height="32"
             viewBox="0 0 128 128"
             xmlSpace="preserve"
             style={{ minWidth: "24px", minHeight: "24px" }}
